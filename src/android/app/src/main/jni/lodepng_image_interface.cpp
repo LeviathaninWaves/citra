@@ -3,7 +3,7 @@
 // Refer to the license.txt file included.
 
 #include <lodepng.h>
-#include "citra/lodepng_image_interface.h"
+#include "jni/lodepng_image_interface.h"
 #include "common/logging/log.h"
 
 bool LodePNGImageInterface::DecodePNG(std::vector<u8>& dst, u32& width, u32& height,
