@@ -109,7 +109,7 @@
     <string name="custom_textures">Use custom textures</string>
     <string name="custom_textures_description">Uses custom textures found in load/textures/[GAME ID]</string>
     <string name="preload_textures">Preload custom textures</string>
-    <string name="preload_textures_description">Loads all custom textures into memory. This feature can use alot of memory.</string>
+    <string name="preload_textures_description">Loads all custom textures into memory. This feature can use a lot of memory.</string>
     <!-- Premium strings -->
     <string name="premium_text">Premium</string>
     <string name="premium_settings_upsell">Upgrade to Premium and support Citra!</string>
